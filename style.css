@@ -1,0 +1,20 @@
+body 
+{
+    background-color: rgb(9, 9, 170);
+}
+  
+h1 
+{
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;    
+}
+  
+p 
+{
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
