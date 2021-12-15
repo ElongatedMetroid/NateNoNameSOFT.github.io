@@ -1,4 +1,4 @@
-html
+body
 {
 	background: rgb(74, 103, 148);
 }
@@ -33,6 +33,7 @@ p
 
 .footer
 {
+	background: rgb(74, 103, 148);
 	font-family: monospace;
     bottom: 0%;
     position: fixed;
