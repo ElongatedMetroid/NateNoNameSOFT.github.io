@@ -1,21 +1,39 @@
-body 
+body
 {
-    background-color: rgb(9, 9, 170);
-}
-  
-h1 
-{
-    font-weight: bold;
-    font-family: Arial, sans-serif;
-    color: white;
-    text-align: center;    
-}
-  
-p 
-{
-    font-family: verdana;
-    font-size: 20px;
-    font-weight: bold;
-    font-family: Arial, sans-serif;
+	background: rgb(74, 103, 148);
 }
 
+h1
+{
+	font-weight: 800;
+	font-family: monospace;
+	background: 0xff;
+}
+
+p
+{
+	font-family: monospace;
+	font-weight: 500;
+	font-size: 15px;
+}
+
+.pcenter 
+{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.hcenter
+{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.footer
+{
+	font-family: monospace;
+    bottom: 0%;
+    position: fixed;
+}
