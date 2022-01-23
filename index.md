@@ -6,11 +6,13 @@ layout: default
 
 Vannila Chat is a light-weight terminal messaging application. 
 * * *
+
 * Vannila chat runs very fast
 * Utilizes TCP web sockets for client-server communication
 * Very secure, you manage your own privacy; as it should be
 * Encrypted with gpg
 * Open-Source
+
 * * *
 
 To download vannila chat please visit its [official website](./noname.minecraftr.us). 
