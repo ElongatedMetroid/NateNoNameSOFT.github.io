@@ -15,7 +15,7 @@ Vannila Chat is a light-weight terminal messaging application.
 
 * * *
 
-To download vannila chat please visit its [official website](./noname.minecraftr.us). 
+To download vannila chat please visit its [official page](./pages/vanilla-chat.php). 
 Vannila Chat is cross platform thanks to cmake, but it works best on linux as that
 is what was in mind while creating it.
 
