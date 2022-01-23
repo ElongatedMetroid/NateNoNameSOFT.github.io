@@ -12,6 +12,7 @@ Vannila Chat is a light-weight terminal messaging application.
 * Encrypted with gpg
 * Open-Source
 * * *
+
 To download vannila chat please visit its [official website](./noname.minecraftr.us). 
 Vannila Chat is cross platform thanks to cmake, but it works best on linux as that
 is what was in mind while creating it.
@@ -31,4 +32,3 @@ is what was in mind while creating it.
 * * *
 
 ![tux](img/flatTux.png)
-![CLogo](img/C_logo.png)
