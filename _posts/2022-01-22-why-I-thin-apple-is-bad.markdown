@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Linux Is better than Windows, My View"
+title:  "Why I think Apple is a Bad Company"
 date:   2022-01-22 21:23:46 -0800
 ---
 First of the bat, Apple has terrible business practices such as anti-competitive behavior, use of sweatshop labor, lying about MANY MANY things, and 
