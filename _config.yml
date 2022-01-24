@@ -16,9 +16,8 @@
 title: C elitist Blog
 email: nategamedevelopmentacc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is just for fun, dont take any
-  topics here to seriously, all this stuff is
-  just for fun.
+  This is a website about programming and Linux
+  at least most of the stuff you will find here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "natenonamesoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  NateNoNameSOFT

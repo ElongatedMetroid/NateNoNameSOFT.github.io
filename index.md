@@ -2,21 +2,19 @@
 layout: default
 ---
 
-## Check out the Vannila Chat Project
+## Check out the Vanilla Chat Project
 
-Vannila Chat is a light-weight terminal messaging application. 
+Vanilla Chat is a light-weight terminal messaging application. 
 * * *
 
-* Vannila chat runs very fast
+* Vanilla chat runs very fast
 * Utilizes TCP web sockets for client-server communication
 * Very secure, you manage your own privacy; as it should be
 * Encrypted with gpg
 * Open-Source
 
-* * *
-
-To download vannila chat please visit its [official website](noname.minecraftr.us). 
-Vannila Chat is cross platform thanks to cmake, but it works best on linux as that
+To download Vanilla Chat please visit its [official website](noname.minecraftr.us). 
+Vanilla Chat is cross platform thanks to cmake, but it works best on linux as that
 is what was in mind while creating it.
 
 * * *
@@ -29,8 +27,6 @@ is what was in mind while creating it.
 
 [Why I think Apple is a bad company](./_posts/2022-01-22-why-I-thin-apple-is-bad.markdown).
 
->Yet another rant
+> Why you should not support Apple anymore and how Apple is tricking there users
 
 * * *
-
-![tux](img/flatTux.png)
