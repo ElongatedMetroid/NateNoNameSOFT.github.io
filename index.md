@@ -30,3 +30,5 @@ is what was in mind while creating it.
 > Why you should not support Apple anymore and how Apple is tricking there users
 
 * * *
+
+<sup><sub>View the website archive <a href="/archive/rev1.html">here</a></sub></sup>
