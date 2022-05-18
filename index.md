@@ -2,22 +2,11 @@
 layout: default
 ---
 
-## Check out the Vanilla Chat Project
+## View my blog
 
-Vanilla Chat is a light-weight terminal messaging application. 
-* * *
+[Newest blog](./_posts/blog_newest.markdown)
 
-* Vanilla chat runs very fast
-* Utilizes TCP web sockets for client-server communication
-* Very secure, you manage your own privacy; as it should be
-* Encrypted with gpg
-* Open-Source
-
-To download Vanilla Chat please visit its [official website](noname.minecraftr.us). 
-Vanilla Chat is cross platform thanks to cmake, but it works best on linux as that
-is what was in mind while creating it.
-
-* * *
+[Previous blogs](./_posts/blog_old.markdown)
 
 ## View Some Of My Rants/Arguments
 
